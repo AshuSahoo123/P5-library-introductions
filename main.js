@@ -8,7 +8,7 @@ function setup() {
 }
 
 function draw() {
-    image(img, 0, 0, 750, 750);
+    image(img, 200, 200, 300, 300);
     fill("turquoise");
   stroke("lime");
   strokeWeight(2);
